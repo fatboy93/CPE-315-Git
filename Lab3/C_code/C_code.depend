@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1460513368 source:c:\users\nghia\desktop\cal poly spring 2016\cpe 315\cpe-315-git\lab3\c_code\main.c
+	<stdio.h>
+	<stdlib.h>
+
